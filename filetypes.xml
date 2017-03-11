@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="in-progress" type="PLAIN_TEXT" />
       <mapping pattern="basic" type="PLAIN_TEXT" />
+      <mapping ext="bnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
