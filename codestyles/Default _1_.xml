@@ -3,7 +3,4 @@
   <ClojureCodeStyleSettings>{
   :cursive.formatting/align-binding-forms true
 }</ClojureCodeStyleSettings>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
 </code_scheme>
